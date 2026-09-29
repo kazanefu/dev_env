@@ -3,4 +3,4 @@ title = "About My Development Environment"
 authors = ["kazanefu"]
 language = "en"
 [build]
-build-dir = "dist"
+build-dir = "docs"
