@@ -1,6 +1,6 @@
 [book]
 title = "About My Development Environment"
 authors = ["kazanefu"]
-language = "en"
+language = "jp"
 [build]
 build-dir = "docs"

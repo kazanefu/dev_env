@@ -36,6 +36,7 @@
 - SSD: 1TB(512+512GB, 増設した)
 - 用途: 今は使ってないけど昔はメイン機として使ってた, 実験用に使うかも?
 - 選んだ理由: 値段(7万円)で、一応Unityの最低要件は満たしていたから。
+![](./images/GamingNote.jpg)
 
 ## スマホ
 
@@ -54,6 +55,7 @@ Corne v4 Chocolate<br>
 ### ゲーム用
 
 Logicool PRO X TKL RAPID
+![](./images/キーボード.jpg)
 
 ## マウス
 
@@ -63,6 +65,7 @@ Logicool PRO X TKL RAPID
 ## マウスパッド
 
 - Pulsar superglide 2 (420x330)
+![](./images/mouse.jpg)
 
 ## モニター
 
